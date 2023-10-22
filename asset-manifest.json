@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CodeByGagan/code-editor-edvanta-assignment/static/css/main.7ea9b95f.css",
+    "main.js": "/CodeByGagan/code-editor-edvanta-assignment/static/js/main.28349bd2.js",
+    "static/js/787.624fd216.chunk.js": "/CodeByGagan/code-editor-edvanta-assignment/static/js/787.624fd216.chunk.js",
+    "index.html": "/CodeByGagan/code-editor-edvanta-assignment/index.html",
+    "main.7ea9b95f.css.map": "/CodeByGagan/code-editor-edvanta-assignment/static/css/main.7ea9b95f.css.map",
+    "main.28349bd2.js.map": "/CodeByGagan/code-editor-edvanta-assignment/static/js/main.28349bd2.js.map",
+    "787.624fd216.chunk.js.map": "/CodeByGagan/code-editor-edvanta-assignment/static/js/787.624fd216.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ea9b95f.css",
+    "static/js/main.28349bd2.js"
+  ]
+}
