@@ -1,0 +1,56 @@
+/* Styles for the Code Editor */
+.code-editor {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Buttons for actions like Copy, Save, and Lock/Unlock */
+.btn-grp button {
+  margin: 5px;
+  padding: 10px 15px;
+  background-color: #007acc;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-grp button:hover {
+  background-color: #005f99;
+}
+
+/* Styles for the textarea input */
+.code-editor textarea {
+  width: 80%;
+  height: 400px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-family: "Courier New", monospace;
+}
+
+/* Button group container */
+.btn-grp {
+  margin: 0 auto;
+  width: 80%;
+  height: 40px;
+  padding: 10px;
+}
+
+/* Locked state modifier */
+.code-editor.locked textarea {
+  background-color: #f5f5f5;
+  cursor: not-allowed;
+}
+
+/* Locked state for buttons */
+.btn-grp.locked button {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+/* Utility class for horizontal center */
+.center-x {
+  display: flex;
+  justify-content: center;
+}
